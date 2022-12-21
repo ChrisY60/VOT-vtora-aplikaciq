@@ -1,0 +1,16 @@
+.button {
+  border: none;
+  color: greenyellow;
+  background-color: gray;
+  text-align: center;
+  font-size: 16px;
+  position: absolute;
+}
+
+body {
+  background-image: url('background.png');
+}
+.font1 {
+    font-family: "Advent Pro";
+    color: #fff
+}
